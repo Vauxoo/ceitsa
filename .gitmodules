@@ -1,0 +1,4 @@
+[submodule "ceitsa"]
+	path = ceitsa
+	url = git@git.vauxoo.com:vauxoo/ceitsa.git
+	branch = 17.0
