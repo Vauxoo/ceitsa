@@ -2,3 +2,7 @@
 	path = ceitsa
 	url = git@git.vauxoo.com:vauxoo/ceitsa.git
 	branch = 17.0
+[submodule "brand"]
+	path = brand
+	url = git@github.com:OCA/brand.git
+	branch = 17.0
