@@ -14,3 +14,7 @@
 	path = stock-logistics-workflow
 	url = git@github.com:OCA/stock-logistics-workflow.git
 	branch = 17.0
+[submodule "product-attribute"]
+	path = product-attribute
+	url = git@github.com:OCA/product-attribute.git
+	branch = 17.0
