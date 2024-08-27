@@ -18,3 +18,7 @@
 	path = product-attribute
 	url = git@github.com:OCA/product-attribute.git
 	branch = 17.0
+[submodule "stock-psycho-account"]
+	path = stock-psycho-account
+	url = git@git.vauxoo.com:vauxoo/stock-psycho-account.git
+	branch = 17.0
