@@ -18,3 +18,7 @@
 	path = product-attribute
 	url = git@github.com:OCA/product-attribute.git
 	branch = 17.0
+[submodule "l10n-mx-edi-fiscal-legend"]
+	path = l10n-mx-edi-fiscal-legend
+	url = git@git.vauxoo.com:mexico/l10n-mx-edi-fiscal-legend.git
+	branch = 17.0
