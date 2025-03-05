@@ -22,3 +22,7 @@
 	path = l10n-mx-edi-fiscal-legend
 	url = git@git.vauxoo.com:mexico/l10n-mx-edi-fiscal-legend.git
 	branch = 17.0
+[submodule "smc_module"]
+	path = smc_module
+	url = git@github.com:Vauxoo/smc_module.git
+	branch = 17.0
