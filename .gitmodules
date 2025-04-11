@@ -26,3 +26,7 @@
 	path = connector
 	url = git@github.com:Vauxoo/connector.git
 	branch = 17.0
+[submodule "smc_module"]
+	path = smc_module
+	url = git@github.com:Vauxoo/smc_module.git
+	branch = 17.0
